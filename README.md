@@ -1,6 +1,6 @@
 ### Hi there, my name is Razvan 👋
 
-#### I am a full stack developer since 2019 ✌️
+#### I am a rontend stack developer since 2019 ✌️
 
 It all started with full course of Java but I ended starting my first work project as an Angular frontend developer
 
